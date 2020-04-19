@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Interfaz
+comment1.params=
+comment1.target=void\ nuevaCompra()
+comment2.params=n
+comment2.target=java.lang.Boolean\ validarCampos(java.lang.Integer)
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=
+comment4.target=void\ cerrarCaja()
+comment5.params=
+comment5.target=void\ Calcular()
+comment6.params=
+comment6.target=void\ Pagar()
+comment7.params=
+comment7.target=Interfaz()
+numComments=8

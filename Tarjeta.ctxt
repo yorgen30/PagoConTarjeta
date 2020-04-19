@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Tarjeta
+comment1.params=codigo\ codVerificacion\ propietario
+comment1.target=Tarjeta(java.lang.String,\ java.lang.Integer,\ Usuario)
+comment2.params=
+comment2.target=java.lang.Boolean\ veriFicacionCodigoSeguridad()
+comment3.params=
+comment3.target=Tarjeta()
+comment4.params=
+comment4.target=java.lang.String\ getCodigo()
+comment5.params=codigo
+comment5.target=void\ setCodigo(java.lang.String)
+comment6.params=
+comment6.target=java.lang.Integer\ getCodVerificacion()
+comment7.params=codVerificacion
+comment7.target=void\ setCodVerificacion(java.lang.Integer)
+comment8.params=
+comment8.target=Usuario\ getPropietario()
+comment9.params=propietario
+comment9.target=void\ setPropietario(Usuario)
+numComments=10
